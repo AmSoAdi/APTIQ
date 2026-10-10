@@ -1,0 +1,6 @@
+{
+  "name": "APTIQ",
+  "description": "APTIQ is a full-stack AI learning, assessment & critical-thinking platform. Think beyond the answer: learn smarter, reason deeper, and solve better.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
